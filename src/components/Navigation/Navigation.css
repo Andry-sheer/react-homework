@@ -1,0 +1,22 @@
+.Navigation {
+  width: 200px;
+  padding: 10px 30px;
+  border: 2px solid red;
+  background-color: rgb(41, 100, 41);
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0;
+  text-align: center;
+}
+
+.listNav {
+  padding: 5px 10px;
+  font-size: 30px;
+  border: 3px solid red;
+  border-radius: 12px;
+  list-style: none;
+}

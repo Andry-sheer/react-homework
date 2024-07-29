@@ -1,0 +1,10 @@
+.Main {
+  background-color: rgb(82, 82, 175);
+  border: 2px solid red;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+  padding-top: 42vh;
+  border-radius: 12px;
+}
